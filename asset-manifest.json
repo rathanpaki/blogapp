@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rathanpaki/blogapp/static/css/main.f331cf7c.css",
+    "main.js": "/rathanpaki/blogapp/static/js/main.ea82d803.js",
+    "static/js/453.d1ead18a.chunk.js": "/rathanpaki/blogapp/static/js/453.d1ead18a.chunk.js",
+    "static/media/computer-networking.webp": "/rathanpaki/blogapp/static/media/computer-networking.5ef37af5268f9b393a9e.webp",
+    "static/media/intro-data-structure-–-1.png": "/rathanpaki/blogapp/static/media/intro-data-structure-–-1.9883575877eb98f01efa.png",
+    "static/media/algorithm ieee seminar topics for computer science.webp": "/rathanpaki/blogapp/static/media/algorithm ieee seminar topics for computer science.4a08c5051b6640065e80.webp",
+    "static/media/What-Is-JavaScript-Used-For.avif": "/rathanpaki/blogapp/static/media/What-Is-JavaScript-Used-For.bb4497af650f62dcf109.avif",
+    "index.html": "/rathanpaki/blogapp/index.html",
+    "main.f331cf7c.css.map": "/rathanpaki/blogapp/static/css/main.f331cf7c.css.map",
+    "main.ea82d803.js.map": "/rathanpaki/blogapp/static/js/main.ea82d803.js.map",
+    "453.d1ead18a.chunk.js.map": "/rathanpaki/blogapp/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f331cf7c.css",
+    "static/js/main.ea82d803.js"
+  ]
+}
